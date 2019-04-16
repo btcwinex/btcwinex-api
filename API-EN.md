@@ -323,6 +323,7 @@ qtum_usdt|
 snt_usdt|
 elf_usdt|
 knc_usdt|
+vds_usdt|
 eth_btc|
 eos_btc|
 ltc_btc|
@@ -331,6 +332,12 @@ dash_btc|
 omg_btc|
 link_btc|
 zrx_btc|
+vds_btc|
+mana_btc|
+mco_btc|
+lrc_btc|
+dgd_btc|
+
 
 DepthLimit |
 ---|
